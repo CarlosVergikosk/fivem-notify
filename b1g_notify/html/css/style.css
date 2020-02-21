@@ -4,32 +4,6 @@ body {
     background-color: transparent !important;
 }
 
-.notification {
-    padding: 10px;
-    width: fit-content;
-    border-radius: 5px;
-    margin: 5px;
-    font: caption;
-    text-align: center;
-    font-size: 16px;
-    font-weight: 900;
-}
-
-.success {
-    background: rgb(114, 204, 45);
-    color: #fff;
-}
-
-.inform {
-    background-color: rgb(36, 208, 115);
-    color: #ffffff;
-}
-
-.error {
-    background: rgb(224, 50, 50);
-    color: #fff;
-}
-
 #toast {
     visibility: hidden;
 	border-radius: 25px;
